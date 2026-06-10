@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static int enkucuk = 0;
     public static void main(String[] args) {
@@ -17,7 +15,6 @@ public class Main {
 
 
     public static int insonraki(int[] d, int indeks) {
-        // Yazacağınız kod burada başlayacaktır.
         int enkucuk = d[indeks];
         int enkucukindex = indeks;
 
