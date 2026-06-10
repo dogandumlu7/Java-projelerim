@@ -347,8 +347,8 @@ public class Main {
 //        personel1._personelno = 240706044;
 //
 //        Personel personel2 = new Personel();
-//        personel2._name = "Selehattin";
-//        personel2._surname = "Demirtaş";
+//        personel2._name = "Mahir";
+//        personel2._surname = "Dumlu";
 //        personel2._egtimdurumu = "Üniversite mezunu";
 //        personel2._unvan = "Avukat";
 //        personel2._personelno = 24436001;
